@@ -18,3 +18,15 @@ document.getElementById('addNew').addEventListener('click',function(){
     `;
     mobileContainer.appendChild(addNewMobile)
 })
+document.getElementById('addImage').addEventListener('click',function(){
+    const imageContainer = document.getElementById('mobiles');
+    const addNewImage = document.createElement('div');
+
+    addNewImage.innerHTML=`
+    <div style="text-align:center" >
+    <h1>This image from google</h1>
+    <img style = " display: block; margin-left: auto; margin-right: auto;" src="https://asia-exstatic-vivofs.vivo.com/PSee2l50xoirPK7y/1677571104137/afee365e27ec71ce13a2b6664ecde107.png" alt="">
+    </div>
+    `
+    imageContainer.appendChild(addNewImage)
+})
