@@ -52,5 +52,11 @@ console.log("Both name = ", baba," And " , khalu);
  a. square each array elements
  b. calculate the sum of the squared elements
  c. Return the average of the sum of the squared elements.
+
+ Practice Problem 4:
+ Write an arrow function where it will do the following:
+ a. it will take two array inputs
+ b. Combine the two arrays and assign them in a new array.
+ c. Find the maximum number from the new array and return the result
  */
 

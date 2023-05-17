@@ -32,4 +32,6 @@ console.log(result8);
 // Arrow FUNCTION
 // Arrow function is one of the features introduced in the ES6 version of JavaScript. It allows you to create functions in a cleaner way compared to regular functions.
 
+
+
 // google search: regular function vs arrow function
