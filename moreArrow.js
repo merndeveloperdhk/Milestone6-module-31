@@ -26,6 +26,8 @@ const doMath = (x, y, z) =>{
     const result = multiplyResult / 2;
     return result;
 }
+const result8 = doMath(5,6,7);
+console.log(result8);
 
 // Arrow FUNCTION
 // Arrow function is one of the features introduced in the ES6 version of JavaScript. It allows you to create functions in a cleaner way compared to regular functions.

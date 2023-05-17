@@ -22,3 +22,9 @@ function multiply(first, second){
 }
 const multiplyResult = multiply(5,7)
 console.log(multiplyResult);
+
+
+const squared = (sum1, sum2) =>{
+    const square1 = Math.square(2,5);
+    return square1;
+}
